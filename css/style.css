@@ -1,0 +1,51 @@
+#nav-logo {
+    width: 60px;
+    height: 40px;
+}
+
+.logo-text h1 {
+    font-size: 16px;
+}
+
+small {
+    font-size: 10px;
+}
+
+.main {
+    background-image: url("../images/banner.png");
+    background-repeat: no-repeat;
+}
+
+#weather-search {
+    color: white;
+}
+
+#weather-search::placeholder {
+    color: gray;
+}
+
+#temp {
+    font-size: 90px;
+    font-weight: 700;
+}
+
+.weather-body {
+    background-color:
+        #1e202b;
+}
+
+.weather-footer {
+    background-color:
+        #1e202b;
+}
+.weather-footer img{
+    width: 20px;
+    height: 20px;
+}
+.col-md-4{
+    background-color:
+    #1e202b;
+}
+body{
+    background-color: rgb(28, 49, 71);
+}
